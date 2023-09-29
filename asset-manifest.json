@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Oh-No-Cringe/static/css/main.e480cc69.css",
+    "main.js": "/Oh-No-Cringe/static/js/main.29af507a.js",
+    "static/js/787.96704c6d.chunk.js": "/Oh-No-Cringe/static/js/787.96704c6d.chunk.js",
+    "static/media/oh no cringe.mp3": "/Oh-No-Cringe/static/media/oh no cringe.e486eab782205d14f912.mp3",
+    "index.html": "/Oh-No-Cringe/index.html",
+    "main.e480cc69.css.map": "/Oh-No-Cringe/static/css/main.e480cc69.css.map",
+    "main.29af507a.js.map": "/Oh-No-Cringe/static/js/main.29af507a.js.map",
+    "787.96704c6d.chunk.js.map": "/Oh-No-Cringe/static/js/787.96704c6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e480cc69.css",
+    "static/js/main.29af507a.js"
+  ]
+}
